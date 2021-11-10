@@ -187,13 +187,13 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 2.75em;
+		font-size: 2.0em;
 	}
 
 		h1.major {
 			margin: 0 0 1.3em 0;
 			position: relative;
-			padding-bottom: 0.35em;
+			padding-bottom: 0.2em;
 		}
 
 			h1.major:after {
